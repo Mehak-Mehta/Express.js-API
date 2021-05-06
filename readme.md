@@ -5,7 +5,7 @@
 </div>
 
  # <h3> End Points: <h3>
-    <h4> GET : /hunters </h4>
+   <h4> GET : /hunters </h4>
     
 
 

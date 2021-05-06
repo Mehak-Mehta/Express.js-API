@@ -13,5 +13,4 @@ app.use(express.json())
 
 const huntersRouter = require('./routes/hunters')
 app.use('/hunters', huntersRouter)
-
 app.listen(3000, () => console.log('Server Started'))

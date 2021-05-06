@@ -16,13 +16,9 @@
 
 
  # <h3> End Points: <h3>
-   GET /hunters 
-   
-   GET /hunters:id
-   
-   POST /hunters
-   
-   Patch /hunters:id
-   
-   DELETE /hunters:id
+   - GET /hunters 
+   - GET /hunters:id
+   - POST /hunters
+   - PATCH /hunters:id
+   - DELETE /hunters:id
    

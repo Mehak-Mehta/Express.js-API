@@ -10,6 +10,7 @@
     <span> · </span>
     <a href="/"> Docs  </a >
     <span> · </span>
+    <a href="https://github.com/Mehak-Mehta" > Owner </a>
 </h3>
 
 

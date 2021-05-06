@@ -4,6 +4,8 @@
    
 </div>
 
+<a href="/"> Contribute</a>
+
  # <h3> End Points: <h3>
    GET /hunters 
    

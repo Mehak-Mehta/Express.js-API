@@ -5,8 +5,14 @@
 </div>
 
 
- <p align = Center>
-<a href="https://github.com/Mehak-Mehta/Express.js-API/blob/master/CONTRIBUTING.md"> Contribute  </a ></p>
+ <h3 align = Center>
+    <a href="https://github.com/Mehak-Mehta/Express.js-API/blob/master/CONTRIBUTING.md"> Contribute  </a >
+    <span> · </span>
+    <a href="/"> Docs  </a >
+    <span> · </span>
+</h3>
+
+
 
  # <h3> End Points: <h3>
    GET /hunters 

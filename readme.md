@@ -8,7 +8,10 @@
    GET /hunters 
    
    GET /hunters:id
-    
-
-
-
+   
+   POST /hunters
+   
+   Patch /hunters:id
+   
+   DELETE /hunters:id
+   

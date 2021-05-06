@@ -4,7 +4,7 @@
    
 </div>
 
-<a href="/"> Contribute</a>
+<a href="https://github.com/Mehak-Mehta/Express.js-API/blob/master/CONTRIBUTING.md"> Contribute</a align = Center>
 
  # <h3> End Points: <h3>
    GET /hunters 

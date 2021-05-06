@@ -6,6 +6,7 @@
 
  # <h3> End Points: <h3>
    GET /hunters 
+   
    GET /hunters:id
     
 

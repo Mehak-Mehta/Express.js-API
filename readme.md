@@ -4,4 +4,6 @@
 </div>
 
 # End Points 
- <h1> GET : /hunters </h1>
+ <strong> GET : /hunters </strong>
+  <strong> PUT : /hunters/id </strong>
+   <strong> POST : /hunters </strong>

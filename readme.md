@@ -21,4 +21,5 @@
    - POST /hunters
    - PATCH /hunters:id
    - DELETE /hunters:id
-   
+# <h3> Contributions <h3>
+  Express.js-API is an open source project. I would encourage to read the <a href="https://github.com/Mehak-Mehta/Express.js-API/blob/master/CONTRIBUTING.md"> contributing md</a> before contributing.

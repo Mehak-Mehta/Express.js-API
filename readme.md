@@ -24,3 +24,6 @@
    - DELETE /hunters:id
 # <h3> Contributions <h3>
   Express.js-API is an open source project. I would encourage to read the <a href="https://github.com/Mehak-Mehta/Express.js-API/blob/master/CONTRIBUTING.md"> contributing md</a> before contributing.
+
+<h2> Route.rest </h2>
+There is a chance that localhost won't work. I am currently trying to convert localhost to https

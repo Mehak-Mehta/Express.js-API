@@ -9,11 +9,6 @@ GET http://localhost:3000/hunters/609381be1a835616643c1d06
 POST http://localhost:3000/hunters
 Content-Type: application/json
 
-{
-    "name":"gon",
-    "age":"12",
-    "description" : "hi"
-}
 
 ###
 DELETE http://localhost:3000/hunters/60938f45badc040d34afd77a

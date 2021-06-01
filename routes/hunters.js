@@ -75,6 +75,7 @@ router.delete('/:id' , getHunters , async(req, res) => {
 
 })
 
+// async await
 async function getHunters(req,res,next) {
   let hunter
   try {

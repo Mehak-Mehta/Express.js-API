@@ -5,6 +5,7 @@ const router = express.Router()
 const Hunter = require('../models/hunter')
 
 
+
 // Get all 
 router.get('/' , async (req, res) => {
     

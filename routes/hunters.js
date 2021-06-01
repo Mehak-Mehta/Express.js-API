@@ -88,5 +88,4 @@ async function getHunters(req,res,next) {
 
 } 
 
-
 module.exports = router

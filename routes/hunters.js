@@ -20,7 +20,8 @@ router.get('/' , async (req, res) => {
     
 
 })
-// Get one
+
+// Get one (get)
 router.get('/:id' , getHunters , (req, res) => {
     res.send(res.getHunters.name)
 

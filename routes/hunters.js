@@ -25,7 +25,7 @@ router.get('/:id' , getHunters , (req, res) => {
     res.send(res.getHunters.name)
 
 })
-// Create one
+// Create one (post)
 router.post('/', async (req, res) => {
     const hunter = new Hunter({
       name: req.body.name,

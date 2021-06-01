@@ -39,7 +39,8 @@ router.post('/', async (req, res) => {
       res.status(400).json({ message: err.message })
     }
   })
-// Update one
+
+// Update one (patch)
 router.patch('/:id', getHunters , async(req, res) => {
   if (req.body.name != null) {
     res.hunter.name = req.body.name

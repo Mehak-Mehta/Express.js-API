@@ -12,13 +12,10 @@ router.get('/' , async (req, res) => {
     try{
         const hunters = await Hunter.find()
         res.json(hunters)
-
     } catch (error){
         res.status(500).json({msg : error.msg})
 
     }
-    
-
 })
 
 // Get one (get)
